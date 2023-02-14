@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">游戏安装器</string>
+    <string name="install">安装游戏</string>
+    <string name="delete">删除游戏</string>
+</resources>
